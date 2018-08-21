@@ -1,3 +1,5 @@
+#include <iostream>
+
 template <typename T>
 class Queue{
 	//Node Data Type
@@ -47,3 +49,10 @@ public:	//Default Constructor
 			deleteAll(FRONT);
 	}
 };
+
+int main( int argc, char** argv){
+	
+	//Enter Your Code Here
+	
+	return 0;
+}
